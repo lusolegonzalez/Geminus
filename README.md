@@ -1,3 +1,2 @@
 # Geminus
-Test para Geminus
-Ejercicio 1
+Test para Geminus (Ejercicio 1)
