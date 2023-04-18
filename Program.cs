@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Geminus
 {
@@ -97,6 +98,12 @@ namespace Geminus
             }
 
         }
+
+        public static void Ejercicio3()
+        {
+            
+        }
+
 
     }
 }
